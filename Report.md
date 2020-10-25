@@ -6,15 +6,14 @@
 
 На тестирование затрачено: 1 час
 
-В результате тестирования выявлены следующие дефекты:
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
+В результате тестирования выявлены дефекты, представленные в 
+[Баг-репорт](https://github.com/Shurkovalina/Java1.1/issues/1#issue-728967918).
+
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-[KeyValidator.class](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class)
+[KeyValidator.class](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class).
 
 В качестве тестовых данных использовались данные [Руководство использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
 
